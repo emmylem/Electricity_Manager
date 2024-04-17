@@ -1,0 +1,6 @@
+Total Units: 19
+Total Days: 21
+Remaining Units: 16.0
+Remaining Days: 20
+Timestamp,Units Used
+2024-04-17 18:29:57,3.0
