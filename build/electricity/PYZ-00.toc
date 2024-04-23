@@ -1,4 +1,4 @@
-('/home/emmylem/home/Python/Electricity/build/electricity/PYZ-00.pyz',
+('/home/emmylem/home/Python/Electricity_Manager/build/electricity/PYZ-00.pyz',
  [('IPython',
    '/home/emmylem/.local/lib/python3.10/site-packages/IPython/__init__.py',
    'PYMODULE'),
